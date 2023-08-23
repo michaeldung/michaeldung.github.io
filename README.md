@@ -1,5 +1,5 @@
 # herta kuru
-[Home Page](https://herta.vercel.app)
+[Home Page](https://michaeldung.github.io/)
 
 The website for Herta, the cutest genius Honkai: Star Rail character out there!
 
